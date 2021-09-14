@@ -1,0 +1,33 @@
+html{
+  background-color: yellow;
+  color: green;
+  font-size: 40px;
+  font-variant: small-caps;
+}
+
+a{
+  font: arial;
+  color; white;
+  background: pink;
+}
+
+p1{
+  background: pink;
+}
+
+p2{
+  background: purple;
+  opacity: 0.7;
+}
+
+p3{
+  background: orange;
+}
+
+img{
+  display: block;
+  width: 80%;
+  outline: dashed red;
+  align-items: center;
+  object-position: 100px 40%;
+}
